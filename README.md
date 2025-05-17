@@ -1,4 +1,4 @@
-# <Center> Car Price Prediction Workshop </Center>
+# <Center> Car Price Prediction Workshop ( Volunteer ) </Center>
 
 In this project, we will be predicting car prices using a dataset of car features and prices. We will use a variety of techniques, including data cleaning, exploratory data analysis, feature engineering, and machine learning modeling.
 
